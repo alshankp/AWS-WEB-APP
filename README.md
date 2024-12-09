@@ -1,4 +1,4 @@
-High-Availability Web Application Deployment on AWS
+# High-Availability Web Application Deployment on AWS
 This project shows how to deploy a scalable and reliable web application using Amazon Web Services (AWS). The goal is to ensure that a PHP-based website can handle high traffic and stay online, even if something goes wrong with one of the servers.
 
 Key Features:
